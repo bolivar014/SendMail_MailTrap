@@ -1,0 +1,1 @@
+<p>Bienvenidos, {{ $user->name }} al correo de prueba</p>
