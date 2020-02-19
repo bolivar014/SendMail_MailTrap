@@ -1,0 +1,15 @@
+[*] Verificar Estado de git..
+    git status
+
+    Inicializar repositorio git
+    git init 
+
+    agregar todo el repositorio al git...
+    git add -A 
+
+    Nombre del primer commit
+    git commit -m "Proyecto Base.."
+
+    git remote add origin [https://github.com/bolivar014/SendMail_MailTrap]
+
+    git push -f origin master
